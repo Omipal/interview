@@ -1,2 +1,0 @@
-# interview
-Thiss is a
